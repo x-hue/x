@@ -5,33 +5,33 @@
 *LINE Messaging's private API*
 
 ----
-# [ADD ME!](https://line.me/R/ti/p/~ptatan1983'))
+# [ADD ME!](https://line.me/R/ti/p/~ptatan1983)
 # Ambil Token Bisa Di
 # [ADITMADZS Bot Public](line.me/ti/p/~botaditmadzs)
 
 # Termux
 
-``` sh
-•apt update
-•apt upgrade
-•apt install python
-•pip3 install pytz
-•pip3 install requests
-•pip3 install rsa
-•pip3 install bs4
-•pip3 install gtts
-•pip3 install goslate
-•pip3 install googletrans
-•pip3 install pafy
-•pip3 install youtube_dl
-•pip3 install humanfriendly
-•pip3 install thrift==0.11.0
-•pip3 install tweepy
-•pip3 install wikipedia
-•apt install git
-•git clone https://github.com/tanpattaya/tanbot-Aditmadzs
-•cd tanbot-Aditmadzs
-•python3 adit.py
+```sh
+`         apt update
+`         apt upgrade
+`         apt install python
+`         pip3 install pytz
+`         pip3 install requests
+`         pip3 install rsa
+`         pip3 install bs4
+`         pip3 install gtts
+`         pip3 install goslate
+`         pip3 install googletrans
+`         pip3 install pafy
+`         pip3 install youtube_dl
+`         pip3 install humanfriendly
+`         pip3 install thrift==0.11.0
+`         pip3 install tweepy
+`         pip3 install wikipedia
+`         apt install git
+`         git clone https://github.com/tanpattaya/tanbot-Aditmadzs
+`         cd tanbot-Aditmadzs
+`         python3 adit.py
 ```
 
 # VPS 
