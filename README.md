@@ -34,8 +34,8 @@
 • python3 adit.py
 
 
-## VPS 
-` sh`
+# VPS 
+```sh
 ` sudo apt-get update `
 ` sudo apt-get install python3-pip `
 ` sudo apt-get install python3-tz `
@@ -55,3 +55,4 @@
 ` git clone https://github.com/tanpattaya/tanbot-Aditmadzs `
 ` cd tanbot-Aditmadzs `
 ` python3 adit.py `
+```
