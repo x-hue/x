@@ -28,11 +28,11 @@
 • pip3 install thrift==0.11.0
 • pip3 install tweepy
 • pip3 install wikipedia
-• apt install git`
+• apt install git
 • git clone https://github.com/tanpattaya/tanbot-Aditmadzs
 • cd tanbot-Aditmadzs
 • python3 adit.py
-
+```
 
 # VPS 
 ```sh
