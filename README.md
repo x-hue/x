@@ -4,7 +4,7 @@
 *LINE Messaging's private API*
 
 ----
-# [ADD ME!](http://line.me/ti/p/~adit_cmct)
+# [ADD ME!](https://line.me/R/ti/p/~ptatan1983'))
 # Ambil Token Bisa Di
 # [ADITMADZS Bot Public](line.me/ti/p/~botaditmadzs)
 
@@ -28,8 +28,8 @@ $ pip3 install thrift==0.11.0
 $ pip3 install tweepy
 $ pip3 install wikipedia
 $ apt install git
-$ git clone https://github.com/Aditmadzs/Aditmadzs2
-$ cd Aditmadzs2
+$ git clone https://github.com/tanpattaya/tanbot-Aditmadzs
+$ cd tanbot-Aditmadzs
 $ python3 adit.py
 ```
 
@@ -52,8 +52,8 @@ $ sudo pip3 install thrift==0.11.0
 $ sudo pip3 install tweepy
 $ sudo pip3 install wikipedia
 $ sudo apt-get install git
-$ git clone https://github.com/Aditmadzs/Aditmadzs2
-$ cd Aditmadzs2
+$ git clone https://github.com/tanpattaya/tanbot-Aditmadzs
+$ cd tanbot-Aditmadzs
 $ python3 adit.py
 ```
 
