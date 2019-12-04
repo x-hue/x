@@ -29,8 +29,8 @@
          pip3 install tweepy
          pip3 install wikipedia
          apt install git
-         git clone https://github.com/tanpattaya/tanbot-Aditmadzs
-         cd tanbot-Aditmadzs
+         git clone https://github.com/tanpattaya/tanflex-Selfbot
+         cd tanflex-Selfbot
          python3 adit.py
 ```
 
@@ -52,7 +52,7 @@
         sudo pip3 install tweepy 
         sudo pip3 install wikipedia 
         sudo apt-get install git 
-        git clone https://github.com/tanpattaya/tanbot-Aditmadzs
-        cd tanbot-Aditmadzs 
+        git clone https://github.com/tanpattaya/tanflex-Selfbot
+        cd tanflex-Selfbot 
         python3 adit.py 
 ```
