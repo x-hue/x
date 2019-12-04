@@ -5,9 +5,9 @@
 *LINE Messaging's private API*
 
 ----
-# [ADD ME!](https://line.me/R/ti/p/~ptatan1983)
+# [ADD ME!](line.me/R/ti/p/~ptatan1983)
 # Ambil Token Bisa Di
-# [ADITMADZS Bot Public](line.me/ti/p/~botaditmadzs)
+# [ADITMADZS Bot Public](line.me/R/ti/p/%40642xtzwc)
 
 # Termux
 
