@@ -30,12 +30,12 @@ except ImportError:
     import urllib3
 #==============================================================================#
 
-maxgie = LINE("tanknug1983@gmail.com","https://line.me/R/ti/p/~ptatan1983")
-maxgie.log("Auth Token : " + str(maxgie.authToken))
-maxgie.log("Timeline Token : " + str(maxgie.tl.channelAccessToken))
+ki = LINE("tanknug1983@gmail.com","https://line.me/R/ti/p/~ptatan1983")
+ki.log("Auth Token : " + str(ki.authToken))
+ki.log("Timeline Token : " + str(ki.tl.channelAccessToken))
 
-waitOpen = codecs.open("Max2.json","r","utf-8")
-settingsOpen = codecs.open("max.json","r","utf-8")
+waitOpen = codecs.open("wait.json","r","utf-8")
+settingsOpen = codecs.open("settings.json","r","utf-8")
 imagesOpen = codecs.open("image.json","r","utf-8")
 stickersOpen = codecs.open("sticker.json","r","utf-8")
 wait = json.load(waitOpen)
@@ -43,13 +43,13 @@ images = json.load(imagesOpen)
 settings = json.load(settingsOpen)
 stickers = json.load(stickersOpen)
 #==============================================================================#
-maxgieMID = maxgie.profile.mid
-maxgieProfile = maxgie.getProfile()
-maxgieSettings = maxgie.getSettings()
+kiMID = ki.profile.mid
+kiProfile = ki.getProfile()
+kiSettings = ki.getSettings()
 #==============================================================================#
-maxgiePoll = OEPoll(maxgie)
-maxgieMID = maxgie.getProfile().mid
-admin = [maxgieMID]
+kiPoll = OEPoll(ki)
+kiMID = ki.getProfile().mid
+admin = [kiMID]
 loop = asyncio.get_event_loop()
 listToken = ['desktopmac','desktopwin','iosipad','chromeos','win10']
 mc = {"wr":{}}
