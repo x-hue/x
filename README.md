@@ -7,7 +7,7 @@
 ----
 # [ADD ME!](line.me/R/ti/p/~ptatan1983)
 # Ambil Token Bisa Di
-# [ADITMADZS Bot Public](line.me/R/ti/p/%40642xtzwc)
+# [꧁💓 @:꓄ꍏꈤᖘꍏ꓄꓄ꍏꌩ💓꧂ Bot Public](line.me/R/ti/p/%40642xtzwc)
 
 # Termux
 
